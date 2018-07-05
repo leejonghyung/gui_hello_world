@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+fuck hi
+=======
+hi jh
+>>>>>>> f693aad2acb214c3ba0dd7f7a64a26a76e938a4e
